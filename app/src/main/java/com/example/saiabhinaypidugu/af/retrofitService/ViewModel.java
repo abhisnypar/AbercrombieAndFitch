@@ -2,7 +2,7 @@ package com.example.saiabhinaypidugu.af.retrofitService;
 
 import com.google.gson.annotations.SerializedName;
 
-import java.util.List;
+import org.json.JSONArray;
 
 import lombok.Data;
 
@@ -19,5 +19,5 @@ public class ViewModel {
     @SerializedName("backgroundImage")
     private String backGroundImage;
     @SerializedName("content")
-    private List<String> content;
+    private JSONArray content;
 }
