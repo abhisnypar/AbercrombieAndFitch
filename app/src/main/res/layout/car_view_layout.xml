@@ -67,6 +67,7 @@
             android:layout_marginStart="@dimen/shop_buttons_padding_left"
             android:layout_marginTop="@dimen/text_view_bottom_description_size"
             android:background="@drawable/button_background"
+            android:onClick="onClick"
             android:text="@string/shop_men"/>
 
         <Button
@@ -80,6 +81,7 @@
             android:layout_marginStart="@dimen/shop_buttons_padding_left"
             android:layout_marginTop="@dimen/text_view_bottom_description_size"
             android:background="@drawable/button_background"
+            android:onClick="onClick"
             android:text="@string/shop_women"/>
 
     </LinearLayout>

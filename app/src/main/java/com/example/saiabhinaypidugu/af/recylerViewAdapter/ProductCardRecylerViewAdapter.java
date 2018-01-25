@@ -39,6 +39,7 @@ public class ProductCardRecylerViewAdapter extends RecyclerView.Adapter<ProductC
         return new ProductCardRecylerViewAdapter.ViewHolder(view);
     }
 
+
     @Override
     public void onBindViewHolder(ProductCardRecylerViewAdapter.ViewHolder holder, int position) {
 
@@ -103,7 +104,6 @@ public class ProductCardRecylerViewAdapter extends RecyclerView.Adapter<ProductC
                 }
             }
         }
-
     }
 
     @Override
