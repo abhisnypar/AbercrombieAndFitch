@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A&amp;F</string>
+    <string name="top_description"><![CDATA[A & F ESSENTIALS]]></string>
+    <string name="title">TOPS STARTING AT  $12</string>
+    <string name="promo_message">USE CODE: 12345</string>
+    <string name="bottom_description"><![CDATA[*In stores & online. Exclusions apply. SeeDetails]]></string>
+    <string name="shop_men">Shop Men</string>
+    <string name="shop_women">Shop Women</string>
+</resources>
