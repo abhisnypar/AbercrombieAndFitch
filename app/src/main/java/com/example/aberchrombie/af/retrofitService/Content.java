@@ -1,4 +1,4 @@
-package com.example.saiabhinaypidugu.af.retrofitService;
+package com.example.aberchrombie.af.retrofitService;
 
 import com.google.gson.annotations.SerializedName;
 

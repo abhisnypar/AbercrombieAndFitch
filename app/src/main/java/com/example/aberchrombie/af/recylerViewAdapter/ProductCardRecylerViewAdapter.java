@@ -1,4 +1,4 @@
-package com.example.saiabhinaypidugu.af.recylerViewAdapter;
+package com.example.aberchrombie.af.recylerViewAdapter;
 
 
 import android.content.Context;
@@ -11,8 +11,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.saiabhinaypidugu.af.R;
-import com.example.saiabhinaypidugu.af.retrofitService.ViewModel;
+import com.example.aberchrombie.af.R;
+import com.example.aberchrombie.af.retrofitService.ViewModel;
 import com.squareup.picasso.Picasso;
 
 import org.json.JSONException;

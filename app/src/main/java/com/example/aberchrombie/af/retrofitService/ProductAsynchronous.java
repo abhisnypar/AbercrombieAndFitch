@@ -1,11 +1,11 @@
-package com.example.saiabhinaypidugu.af.retrofitService;
+package com.example.aberchrombie.af.retrofitService;
 
 import android.content.Context;
 import android.os.AsyncTask;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 
-import com.example.saiabhinaypidugu.af.recylerViewAdapter.ProductCardRecylerViewAdapter;
+import com.example.aberchrombie.af.recylerViewAdapter.ProductCardRecylerViewAdapter;
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;

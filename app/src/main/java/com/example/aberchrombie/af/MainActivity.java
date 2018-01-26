@@ -1,4 +1,4 @@
-package com.example.saiabhinaypidugu.af;
+package com.example.aberchrombie.af;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -10,7 +10,7 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-import com.example.saiabhinaypidugu.af.retrofitService.ProductAsynchronous;
+import com.example.aberchrombie.af.retrofitService.ProductAsynchronous;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -16,7 +16,7 @@
                   android:background="@color/layout_background"
                   android:orientation="vertical"
                   android:padding="2dp"
-                  tools:context="com.example.saiabhinaypidugu.af.MainActivity">
+                  tools:context="com.example.aberchrombie.af.MainActivity">
 
         <include layout="@layout/imageview_layout"/>
 
